@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/L2Kp7mQy/raw"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImNmNDVjNGNiLTAzNTQtNDNkOS04MjhlLTMzM2MzZjJjNGJhNiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmVvcmlnaW5hbCJ9fQ"))()
